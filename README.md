@@ -135,7 +135,7 @@ for (int i = 0; i <50 ; i++)->랜덤 난수 총 50번 생성 (레벨 10단계까
 ![image](https://github.com/seulgib/TypingGameProgram/assets/126848494/8846e1e3-a9c1-476b-af96-433c80eda0ed)
 ![image](https://github.com/seulgib/TypingGameProgram/assets/126848494/82b7221c-72fe-4139-b744-cdc0b55b7ed6)
 
-6. "덧셈왕 게임" 실행 화면
+3. "덧셈왕 게임" 실행 화면
    ->타자연습게임에서 "덧셈왕" 키워드를 입려하면 숨겨져있던 이스터에그 미니게임 실행!
    ![image](https://github.com/seulgib/TypingGameProgram/assets/126848494/2e2046da-cb0f-42cd-934f-96c3a0b426c7)
    ->하늘에서 1초 간격으로 숫자비가 내려옴. level 1~10까지 존재. 목숨은 총 10개이고, 레벨이 높아질 수록 덧셈 수의 범위가 높아짐.
@@ -144,5 +144,6 @@ for (int i = 0; i <50 ; i++)->랜덤 난수 총 50번 생성 (레벨 10단계까
 
    ![image](https://github.com/seulgib/TypingGameProgram/assets/126848494/6d064953-afdd-4622-88d9-01c52762f888)
 
-8. 프로그램 종료 화면
-[프로그램 작동 화면]
+4. 프로그램 종료 화면
+   ![image](https://github.com/seulgib/TypingGameProgram/assets/126848494/faa4b2e9-1d7c-4bb2-b12d-e83ea5d0842d)
+
